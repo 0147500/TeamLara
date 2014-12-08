@@ -1,0 +1,42 @@
+#main-container {
+    margin-top: 50px;
+    padding-top: 20px;
+}
+
+#home-right {
+    margin-top: 30px;
+}
+
+.navbar-inverse .navbar-brand:hover, .navbar-inverse .navbar-brand:focus{
+    color: white;
+}
+.navbar-inverse .navbar-brand, .navbar-inverse .navbar-nav>li>a:hover {
+    color: white;
+}
+.alert-info{
+    color:black;
+}
+.alert-warning{
+    color:black;
+}
+.alert-danger{
+    color:black;
+}
+.alert-success{
+    color:black;
+}
+
+.ctm-alert-info{
+    color:#45568F;
+}
+
+.rating-div {
+    text-align: center;
+    font-size: 25px;
+}
+
+.rating-div h1 {
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+
